@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d1eadaba-aebf-4e43-8376-a0f97c6296ca" name="变更" comment="2月9日每日一题">
-      <change afterPath="$PROJECT_DIR$/src/leetcode/cn/Q1138.java" afterDir="false" />
+    <list default="true" id="d1eadaba-aebf-4e43-8376-a0f97c6296ca" name="变更" comment="2月12日每日一题">
+      <change afterPath="$PROJECT_DIR$/src/leetcode/cn/Q1234.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -47,7 +47,7 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="应用程序.Q1138">
+  <component name="RunManager" selected="应用程序.Q1234">
     <configuration name="Q1138" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="leetcode.cn.Q1138" />
       <module name="LeetCode-CN" />
@@ -63,6 +63,19 @@
     </configuration>
     <configuration name="Q1233" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="leetcode.cn.Q1233" />
+      <module name="LeetCode-CN" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="leetcode.cn.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Q1234" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode.cn.Q1234" />
       <module name="LeetCode-CN" />
       <extension name="coverage">
         <pattern>
@@ -102,6 +115,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="应用程序.Q1234" />
         <item itemvalue="应用程序.Q1138" />
         <item itemvalue="应用程序.Q1797" />
         <item itemvalue="应用程序.Q1233" />
@@ -122,7 +136,8 @@
       <workItem from="1675855567499" duration="26000" />
       <workItem from="1675941841398" duration="1135000" />
       <workItem from="1676103458232" duration="6000" />
-      <workItem from="1676170583309" duration="746000" />
+      <workItem from="1676170583309" duration="931000" />
+      <workItem from="1676254684609" duration="1277000" />
     </task>
     <task id="LOCAL-00001" summary="2月7日每日一题">
       <created>1675754260893</created>
@@ -145,7 +160,14 @@
       <option name="project" value="LOCAL" />
       <updated>1675942901310</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="2月12日每日一题">
+      <created>1676171499173</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1676171499173</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -166,6 +188,22 @@
     <MESSAGE value="2月7日每日一题" />
     <MESSAGE value="2月8日每日一题" />
     <MESSAGE value="2月9日每日一题" />
-    <option name="LAST_COMMIT_MESSAGE" value="2月9日每日一题" />
+    <MESSAGE value="2月12日每日一题" />
+    <option name="LAST_COMMIT_MESSAGE" value="2月12日每日一题" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/leetcode/cn/Q1234.java</url>
+          <line>12</line>
+          <properties class="leetcode.cn.Solution" method="balancedString">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
