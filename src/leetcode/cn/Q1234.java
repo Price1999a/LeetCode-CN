@@ -4,12 +4,12 @@ import java.util.Arrays;
 
 public class Q1234 {
     public static void main(String[] args) {
-        Solution s = new Solution();
+        SolutionFor1234 s = new SolutionFor1234();
         System.out.println(s.balancedString("RRRE"));
     }
 }
 
-class Solution {
+class SolutionFor1234 {
     public int balancedString(String s) {
         int ret = s.length();
         int[] infos = new int['Z'];
