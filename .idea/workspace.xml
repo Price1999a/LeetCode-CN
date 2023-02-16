@@ -4,8 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d1eadaba-aebf-4e43-8376-a0f97c6296ca" name="变更" comment="2月14日每日一题">
-      <change afterPath="$PROJECT_DIR$/src/leetcode/cn/Q1250.java" afterDir="false" />
+    <list default="true" id="d1eadaba-aebf-4e43-8376-a0f97c6296ca" name="变更" comment="2月15日每日一题&#10;&#10;顺带一提 这个写法显然是有些过于注重java的&quot;高级&quot;特性了 本质上这道题更多的是一道数论题">
+      <change afterPath="$PROJECT_DIR$/.idea/leetcode/editor.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/leetcode/statistics.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode/cn/Q2341.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -32,22 +34,23 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;模块&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "project.structure.last.edited": "模块",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
-  <component name="RunManager" selected="应用程序.Q1250">
+}]]></component>
+  <component name="RunManager" selected="应用程序.Q2341">
     <configuration name="Q1124" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="leetcode.cn.Q1124" />
       <module name="LeetCode-CN" />
@@ -100,8 +103,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Q1797" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leetcode.cn.Q1797" />
+    <configuration name="Q2341" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode.cn.Q2341" />
       <module name="LeetCode-CN" />
       <extension name="coverage">
         <pattern>
@@ -115,11 +118,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="应用程序.Q2341" />
         <item itemvalue="应用程序.Q1250" />
         <item itemvalue="应用程序.Q1124" />
         <item itemvalue="应用程序.Q1234" />
         <item itemvalue="应用程序.Q1138" />
-        <item itemvalue="应用程序.Q1797" />
       </list>
     </recent_temporary>
   </component>
@@ -143,7 +146,8 @@
       <workItem from="1676261436743" duration="477000" />
       <workItem from="1676265809530" duration="21000" />
       <workItem from="1676347760254" duration="1138000" />
-      <workItem from="1676428266642" duration="335000" />
+      <workItem from="1676428266642" duration="534000" />
+      <workItem from="1676520686414" duration="2112000" />
     </task>
     <task id="LOCAL-00001" summary="2月7日每日一题">
       <created>1675754260893</created>
@@ -187,7 +191,14 @@
       <option name="project" value="LOCAL" />
       <updated>1676353192911</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="2月15日每日一题&#10;&#10;顺带一提 这个写法显然是有些过于注重java的&quot;高级&quot;特性了 本质上这道题更多的是一道数论题">
+      <created>1676428789850</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1676428789850</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -211,6 +222,7 @@
     <MESSAGE value="2月12日每日一题" />
     <MESSAGE value="2月13日每日一题&#10;&#10;特别注意和string相关的操作 可能非常耗时&#10;&#10;除此以外，idea不适合直接在源码中写一个超长字符串" />
     <MESSAGE value="2月14日每日一题" />
-    <option name="LAST_COMMIT_MESSAGE" value="2月14日每日一题" />
+    <MESSAGE value="2月15日每日一题&#10;&#10;顺带一提 这个写法显然是有些过于注重java的&quot;高级&quot;特性了 本质上这道题更多的是一道数论题" />
+    <option name="LAST_COMMIT_MESSAGE" value="2月15日每日一题&#10;&#10;顺带一提 这个写法显然是有些过于注重java的&quot;高级&quot;特性了 本质上这道题更多的是一道数论题" />
   </component>
 </project>
