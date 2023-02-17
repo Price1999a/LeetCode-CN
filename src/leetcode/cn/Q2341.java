@@ -7,11 +7,11 @@ public class Q2341 {
 
     public static void main(String[] args) {
         int[] ints = new int[]{1, 3, 2, 1, 3, 2, 2};
-        System.out.println(Arrays.toString(new Solution().numberOfPairs(ints)));
+        System.out.println(Arrays.toString(new SolutionFor2341().numberOfPairs(ints)));
     }
 }
 
-class Solution {
+class SolutionFor2341 {
     public int[] numberOfPairs(int[] nums) {
         boolean[] res = new boolean[101];
         Arrays.fill(res, false);
