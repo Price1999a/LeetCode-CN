@@ -3,11 +3,11 @@ package leetcode.cn;
 public class Q1326 {
     public static void main(String[] a) {
         int[] ranges = new int[]{3, 4, 1, 1, 0, 0};
-        System.out.println(new Solution().minTaps(5, ranges));
+        System.out.println(new SolutionFor1326().minTaps(5, ranges));
     }
 }
 
-class Solution {
+class SolutionFor1326 {
     public int minTaps(int n, int[] ranges) {
         int ret = 0;
         int[] rightest = new int[n + 1];
