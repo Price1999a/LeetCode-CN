@@ -3,12 +3,12 @@ package leetcode.cn;
 public class Q1140 {
     public static void main(String[] a) {
         int[] piles = new int[]{1, 2, 3, 4, 5, 100};
-        System.out.println(new Solution().stoneGameII(piles));
+        System.out.println(new SolutionFor1140().stoneGameII(piles));
     }
 }
 
 
-class Solution {
+class SolutionFor1140 {
     private int[] s;
     private Integer[][] f;
     private int n;
