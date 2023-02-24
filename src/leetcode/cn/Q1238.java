@@ -6,11 +6,11 @@ import java.util.List;
 
 public class Q1238 {
     public static void main(String[] a) {
-        System.out.println(Arrays.toString(new Solution().circularPermutation(3, 2).toArray()));
+        System.out.println(Arrays.toString(new SolutionFor1238().circularPermutation(3, 2).toArray()));
     }
 }
 
-class Solution {
+class SolutionFor1238 {
     public List<Integer> circularPermutation(int n, int start) {
         List<Integer> ans = new ArrayList<>();
         int len = 1 << n;
