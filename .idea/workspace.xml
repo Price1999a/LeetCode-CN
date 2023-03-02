@@ -4,12 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d1eadaba-aebf-4e43-8376-a0f97c6296ca" name="变更" comment="2月28日每日一题">
-      <change afterPath="$PROJECT_DIR$/src/leetcode/cn/Q2373.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/leetcode/editor.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/leetcode/editor.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/leetcode/statistics.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/leetcode/statistics.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="d1eadaba-aebf-4e43-8376-a0f97c6296ca" name="变更" comment="3月1日每日一题" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -162,7 +157,7 @@
       <workItem from="1677385597305" duration="4563000" />
       <workItem from="1677473112926" duration="1797000" />
       <workItem from="1677560135445" duration="3065000" />
-      <workItem from="1677645504408" duration="1119000" />
+      <workItem from="1677645504408" duration="1165000" />
     </task>
     <task id="LOCAL-00001" summary="2月7日每日一题">
       <created>1675754260893</created>
@@ -304,7 +299,14 @@
       <option name="project" value="LOCAL" />
       <updated>1677568183954</updated>
     </task>
-    <option name="localTasksCounter" value="21" />
+    <task id="LOCAL-00021" summary="3月1日每日一题">
+      <created>1677648936787</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1677648936787</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -342,6 +344,7 @@
     <MESSAGE value="2月26日每日一题" />
     <MESSAGE value="2月27日每日一题" />
     <MESSAGE value="2月28日每日一题" />
-    <option name="LAST_COMMIT_MESSAGE" value="2月28日每日一题" />
+    <MESSAGE value="3月1日每日一题" />
+    <option name="LAST_COMMIT_MESSAGE" value="3月1日每日一题" />
   </component>
 </project>
