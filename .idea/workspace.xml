@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d1eadaba-aebf-4e43-8376-a0f97c6296ca" name="变更" comment="3月2日每日一题">
-      <change afterPath="$PROJECT_DIR$/src/leetcode/cn/Q1487.java" afterDir="false" />
+    <list default="true" id="d1eadaba-aebf-4e43-8376-a0f97c6296ca" name="变更" comment="3月3日每日一题 &#10;&#10;今日值得注意的是 这题中我们应该尝试记录下来上一次计算得到的结果 节约重复计算时间">
+      <change afterPath="$PROJECT_DIR$/src/leetcode/cn/Q982.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/leetcode/editor.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/leetcode/editor.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/leetcode/statistics.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/leetcode/statistics.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
@@ -50,7 +50,7 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="应用程序.Q1487">
+  <component name="RunManager" selected="应用程序.Q982">
     <configuration name="Q1144" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="leetcode.cn.Q1144" />
       <module name="LeetCode-CN" />
@@ -90,19 +90,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Q2357" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leetcode.cn.Q2357" />
-      <module name="LeetCode-CN" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="leetcode.cn.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="Q2363" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="leetcode.cn.Q2363" />
       <module name="LeetCode-CN" />
@@ -116,13 +103,26 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Q982" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode.cn.Q982" />
+      <module name="LeetCode-CN" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="leetcode.cn.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="应用程序.Q982" />
         <item itemvalue="应用程序.Q1487" />
         <item itemvalue="应用程序.Q2363" />
         <item itemvalue="应用程序.Q1144" />
         <item itemvalue="应用程序.Q1247" />
-        <item itemvalue="应用程序.Q2357" />
       </list>
     </recent_temporary>
   </component>
@@ -164,7 +164,8 @@
       <workItem from="1677560135445" duration="3065000" />
       <workItem from="1677645504408" duration="1165000" />
       <workItem from="1677744845113" duration="1247000" />
-      <workItem from="1677824185638" duration="1184000" />
+      <workItem from="1677824185638" duration="1565000" />
+      <workItem from="1677910004763" duration="2213000" />
     </task>
     <task id="LOCAL-00001" summary="2月7日每日一题">
       <created>1675754260893</created>
@@ -320,7 +321,14 @@
       <option name="project" value="LOCAL" />
       <updated>1677757428821</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="3月3日每日一题 &#10;&#10;今日值得注意的是 这题中我们应该尝试记录下来上一次计算得到的结果 节约重复计算时间">
+      <created>1677825703728</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1677825703728</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -360,6 +368,7 @@
     <MESSAGE value="2月28日每日一题" />
     <MESSAGE value="3月1日每日一题" />
     <MESSAGE value="3月2日每日一题" />
-    <option name="LAST_COMMIT_MESSAGE" value="3月2日每日一题" />
+    <MESSAGE value="3月3日每日一题 &#10;&#10;今日值得注意的是 这题中我们应该尝试记录下来上一次计算得到的结果 节约重复计算时间" />
+    <option name="LAST_COMMIT_MESSAGE" value="3月3日每日一题 &#10;&#10;今日值得注意的是 这题中我们应该尝试记录下来上一次计算得到的结果 节约重复计算时间" />
   </component>
 </project>
