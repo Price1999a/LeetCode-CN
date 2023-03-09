@@ -3,11 +3,11 @@ package leetcode.cn;
 public class QO47 {
     public static void main(String[] a) {
         int[][] grid = new int[][]{{1, 3, 1}, {1, 5, 1}, {4, 2, 1}};
-        System.out.println(new Solution().maxValue(grid));
+        System.out.println(new SolutionForQO47().maxValue(grid));
     }
 }
 
-class Solution {
+class SolutionForQO47 {
     public int maxValue(int[][] grid) {
         int l1 = grid.length, l2 = grid[0].length;
         int[][] tmp = new int[l1][l2];

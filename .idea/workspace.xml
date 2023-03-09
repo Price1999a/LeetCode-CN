@@ -4,11 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d1eadaba-aebf-4e43-8376-a0f97c6296ca" name="变更" comment="3月7日每日一题">
-      <change afterPath="$PROJECT_DIR$/src/leetcode/cn/QO47.java" afterDir="false" />
+    <list default="true" id="d1eadaba-aebf-4e43-8376-a0f97c6296ca" name="变更" comment="3月8日每日一题">
+      <change afterPath="$PROJECT_DIR$/src/leetcode/cn/Q2379.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/leetcode/editor.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/leetcode/editor.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/leetcode/statistics.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/leetcode/statistics.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/leetcode/cn/QO47.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/leetcode/cn/QO47.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,7 +51,7 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="应用程序.QO47">
+  <component name="RunManager" selected="应用程序.Q2379">
     <configuration name="Q1096" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="leetcode.cn.Q1096" />
       <module name="LeetCode-CN" />
@@ -64,8 +65,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Q1487" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leetcode.cn.Q1487" />
+    <configuration name="Q1653" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode.cn.Q1653" />
       <module name="LeetCode-CN" />
       <extension name="coverage">
         <pattern>
@@ -77,8 +78,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Q1653" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leetcode.cn.Q1653" />
+    <configuration name="Q2379" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode.cn.Q2379" />
       <module name="LeetCode-CN" />
       <extension name="coverage">
         <pattern>
@@ -118,11 +119,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="应用程序.Q2379" />
         <item itemvalue="应用程序.QO47" />
         <item itemvalue="应用程序.Q1096" />
         <item itemvalue="应用程序.Q1653" />
         <item itemvalue="应用程序.Q982" />
-        <item itemvalue="应用程序.Q1487" />
       </list>
     </recent_temporary>
   </component>
@@ -170,7 +171,8 @@
       <workItem from="1678077587526" duration="1738000" />
       <workItem from="1678104226207" duration="13000" />
       <workItem from="1678166701288" duration="3974000" />
-      <workItem from="1678194018597" duration="2492000" />
+      <workItem from="1678194018597" duration="3220000" />
+      <workItem from="1678337663066" duration="3054000" />
     </task>
     <task id="LOCAL-00001" summary="2月7日每日一题">
       <created>1675754260893</created>
@@ -361,7 +363,14 @@
       <option name="project" value="LOCAL" />
       <updated>1678170998872</updated>
     </task>
-    <option name="localTasksCounter" value="28" />
+    <task id="LOCAL-00028" summary="3月8日每日一题">
+      <created>1678256811225</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1678256811225</updated>
+    </task>
+    <option name="localTasksCounter" value="29" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -379,7 +388,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="2月9日每日一题" />
     <MESSAGE value="2月12日每日一题" />
     <MESSAGE value="2月13日每日一题&#10;&#10;特别注意和string相关的操作 可能非常耗时&#10;&#10;除此以外，idea不适合直接在源码中写一个超长字符串" />
     <MESSAGE value="2月14日每日一题" />
@@ -404,6 +412,18 @@
     <MESSAGE value="3月5日每日一题" />
     <MESSAGE value="3月6日每日一题" />
     <MESSAGE value="3月7日每日一题" />
-    <option name="LAST_COMMIT_MESSAGE" value="3月7日每日一题" />
+    <MESSAGE value="3月8日每日一题" />
+    <option name="LAST_COMMIT_MESSAGE" value="3月8日每日一题" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/leetcode/cn/Q2379.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
