@@ -6,7 +6,7 @@ import java.util.List;
 public class Q1617 {
 }
 
-class Solution {
+class SolutionFor1617 {
     int mask;
     int diameter;
 
