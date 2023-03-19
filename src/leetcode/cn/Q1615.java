@@ -3,7 +3,7 @@ package leetcode.cn;
 public class Q1615 {
 }
 
-class Solution {
+class SolutionFor1615 {
     public int maximalNetworkRank(int n, int[][] roads) {
         boolean[][] connected = new boolean[n][n];
         int[] cnt = new int[n];
