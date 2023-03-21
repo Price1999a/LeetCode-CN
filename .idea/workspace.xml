@@ -4,10 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d1eadaba-aebf-4e43-8376-a0f97c6296ca" name="变更" comment="3月19日每日一题">
-      <change afterPath="$PROJECT_DIR$/src/leetcode/cn/Q1012.java" afterDir="false" />
+    <list default="true" id="d1eadaba-aebf-4e43-8376-a0f97c6296ca" name="变更" comment="3月20日每日一题">
       <change beforePath="$PROJECT_DIR$/.idea/leetcode/editor.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/leetcode/editor.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/leetcode/statistics.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/leetcode/statistics.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -182,7 +180,8 @@
       <workItem from="1679029360225" duration="1242000" />
       <workItem from="1679117376173" duration="3303000" />
       <workItem from="1679205753863" duration="3403000" />
-      <workItem from="1679289396816" duration="2302000" />
+      <workItem from="1679289396816" duration="2998000" />
+      <workItem from="1679375717187" duration="459000" />
     </task>
     <task id="LOCAL-00001" summary="2月7日每日一题">
       <created>1675754260893</created>
@@ -457,7 +456,14 @@
       <option name="project" value="LOCAL" />
       <updated>1679210733043</updated>
     </task>
-    <option name="localTasksCounter" value="40" />
+    <task id="LOCAL-00040" summary="3月20日每日一题">
+      <created>1679294049065</created>
+      <option name="number" value="00040" />
+      <option name="presentableId" value="LOCAL-00040" />
+      <option name="project" value="LOCAL" />
+      <updated>1679294049065</updated>
+    </task>
+    <option name="localTasksCounter" value="41" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -475,7 +481,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="2月23日每日一题" />
     <MESSAGE value="2月24日每日一题" />
     <MESSAGE value="2月25日每日一题" />
     <MESSAGE value="2月26日每日一题" />
@@ -500,6 +505,7 @@
     <MESSAGE value="3月17日每日一题" />
     <MESSAGE value="3月18日每日一题" />
     <MESSAGE value="3月19日每日一题" />
-    <option name="LAST_COMMIT_MESSAGE" value="3月19日每日一题" />
+    <MESSAGE value="3月20日每日一题" />
+    <option name="LAST_COMMIT_MESSAGE" value="3月20日每日一题" />
   </component>
 </project>
