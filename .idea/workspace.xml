@@ -4,7 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d1eadaba-aebf-4e43-8376-a0f97c6296ca" name="变更" comment="3月20日每日一题">
+    <list default="true" id="d1eadaba-aebf-4e43-8376-a0f97c6296ca" name="变更" comment="3月21日每日一题">
+      <change afterPath="$PROJECT_DIR$/src/leetcode/cn/Q1626.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/leetcode/editor.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/leetcode/editor.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -48,7 +49,7 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="应用程序.Q1012">
+  <component name="RunManager" selected="应用程序.Q1626">
     <configuration name="Q1012" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="leetcode.cn.Q1012" />
       <module name="LeetCode-CN" />
@@ -75,8 +76,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Q2383" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leetcode.cn.Q2383" />
+    <configuration name="Q1626" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode.cn.Q1626" />
       <module name="LeetCode-CN" />
       <extension name="coverage">
         <pattern>
@@ -116,11 +117,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="应用程序.Q1626" />
         <item itemvalue="应用程序.Q1012" />
         <item itemvalue="应用程序.Q1625" />
         <item itemvalue="应用程序.SolutionFor1625" />
         <item itemvalue="应用程序.Q2488" />
-        <item itemvalue="应用程序.Q2383" />
       </list>
     </recent_temporary>
   </component>
@@ -181,7 +182,8 @@
       <workItem from="1679117376173" duration="3303000" />
       <workItem from="1679205753863" duration="3403000" />
       <workItem from="1679289396816" duration="2998000" />
-      <workItem from="1679375717187" duration="459000" />
+      <workItem from="1679375717187" duration="691000" />
+      <workItem from="1679461392484" duration="2946000" />
     </task>
     <task id="LOCAL-00001" summary="2月7日每日一题">
       <created>1675754260893</created>
@@ -463,7 +465,14 @@
       <option name="project" value="LOCAL" />
       <updated>1679294049065</updated>
     </task>
-    <option name="localTasksCounter" value="41" />
+    <task id="LOCAL-00041" summary="3月21日每日一题">
+      <created>1679376268663</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1679376268663</updated>
+    </task>
+    <option name="localTasksCounter" value="42" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -481,7 +490,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="2月24日每日一题" />
     <MESSAGE value="2月25日每日一题" />
     <MESSAGE value="2月26日每日一题" />
     <MESSAGE value="2月27日每日一题" />
@@ -506,6 +514,18 @@
     <MESSAGE value="3月18日每日一题" />
     <MESSAGE value="3月19日每日一题" />
     <MESSAGE value="3月20日每日一题" />
-    <option name="LAST_COMMIT_MESSAGE" value="3月20日每日一题" />
+    <MESSAGE value="3月21日每日一题" />
+    <option name="LAST_COMMIT_MESSAGE" value="3月21日每日一题" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/leetcode/cn/Q1626.java</url>
+          <line>19</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>
