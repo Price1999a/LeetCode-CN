@@ -4,9 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d1eadaba-aebf-4e43-8376-a0f97c6296ca" name="变更" comment="3月21日每日一题">
-      <change afterPath="$PROJECT_DIR$/src/leetcode/cn/Q1626.java" afterDir="false" />
+    <list default="true" id="d1eadaba-aebf-4e43-8376-a0f97c6296ca" name="变更" comment="3月22日每日一题">
+      <change afterPath="$PROJECT_DIR$/src/leetcode/cn/Q1032.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/leetcode/cn/Q1630.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/niuke/cn/hj18.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/niuke/cn/huawei1.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/leetcode/editor.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/leetcode/editor.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/leetcode/statistics.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/leetcode/statistics.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -43,13 +47,14 @@
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
     &quot;project.structure.last.edited&quot;: &quot;模块&quot;,
     &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
     &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="应用程序.Q1626">
+  <component name="RunManager" selected="应用程序.Q1630">
     <configuration name="Q1012" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="leetcode.cn.Q1012" />
       <module name="LeetCode-CN" />
@@ -89,8 +94,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Q2488" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leetcode.cn.Q2488" />
+    <configuration name="Q1630" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode.cn.Q1630" />
       <module name="LeetCode-CN" />
       <extension name="coverage">
         <pattern>
@@ -102,12 +107,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SolutionFor1625" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leetcode.cn.SolutionFor1625" />
+    <configuration name="huawei1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="niuke.cn.huawei1" />
       <module name="LeetCode-CN" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="leetcode.cn.*" />
+          <option name="PATTERN" value="niuke.cn.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -117,11 +122,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="应用程序.Q1630" />
+        <item itemvalue="应用程序.huawei1" />
         <item itemvalue="应用程序.Q1626" />
         <item itemvalue="应用程序.Q1012" />
         <item itemvalue="应用程序.Q1625" />
-        <item itemvalue="应用程序.SolutionFor1625" />
-        <item itemvalue="应用程序.Q2488" />
       </list>
     </recent_temporary>
   </component>
@@ -183,7 +188,9 @@
       <workItem from="1679205753863" duration="3403000" />
       <workItem from="1679289396816" duration="2998000" />
       <workItem from="1679375717187" duration="691000" />
-      <workItem from="1679461392484" duration="2946000" />
+      <workItem from="1679461392484" duration="3136000" />
+      <workItem from="1679468800795" duration="6039000" />
+      <workItem from="1679634523745" duration="732000" />
     </task>
     <task id="LOCAL-00001" summary="2月7日每日一题">
       <created>1675754260893</created>
@@ -472,7 +479,14 @@
       <option name="project" value="LOCAL" />
       <updated>1679376268663</updated>
     </task>
-    <option name="localTasksCounter" value="42" />
+    <task id="LOCAL-00042" summary="3月22日每日一题">
+      <created>1679468644434</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1679468644434</updated>
+    </task>
+    <option name="localTasksCounter" value="43" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -490,7 +504,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="2月25日每日一题" />
     <MESSAGE value="2月26日每日一题" />
     <MESSAGE value="2月27日每日一题" />
     <MESSAGE value="2月28日每日一题" />
@@ -515,7 +528,8 @@
     <MESSAGE value="3月19日每日一题" />
     <MESSAGE value="3月20日每日一题" />
     <MESSAGE value="3月21日每日一题" />
-    <option name="LAST_COMMIT_MESSAGE" value="3月21日每日一题" />
+    <MESSAGE value="3月22日每日一题" />
+    <option name="LAST_COMMIT_MESSAGE" value="3月22日每日一题" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
