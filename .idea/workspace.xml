@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d1eadaba-aebf-4e43-8376-a0f97c6296ca" name="变更" comment="3月22日每日一题">
-      <change afterPath="$PROJECT_DIR$/src/leetcode/cn/Q1032.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leetcode/cn/Q1630.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/niuke/cn/hj18.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/niuke/cn/huawei1.java" afterDir="false" />
+    <list default="true" id="d1eadaba-aebf-4e43-8376-a0f97c6296ca" name="变更" comment="3月23\24日每日一题">
       <change beforePath="$PROJECT_DIR$/.idea/leetcode/editor.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/leetcode/editor.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/leetcode/statistics.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/leetcode/statistics.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
@@ -190,7 +186,7 @@
       <workItem from="1679375717187" duration="691000" />
       <workItem from="1679461392484" duration="3136000" />
       <workItem from="1679468800795" duration="6039000" />
-      <workItem from="1679634523745" duration="732000" />
+      <workItem from="1679634523745" duration="3016000" />
     </task>
     <task id="LOCAL-00001" summary="2月7日每日一题">
       <created>1675754260893</created>
@@ -486,7 +482,14 @@
       <option name="project" value="LOCAL" />
       <updated>1679468644434</updated>
     </task>
-    <option name="localTasksCounter" value="43" />
+    <task id="LOCAL-00043" summary="3月23\24日每日一题">
+      <created>1679657880775</created>
+      <option name="number" value="00043" />
+      <option name="presentableId" value="LOCAL-00043" />
+      <option name="project" value="LOCAL" />
+      <updated>1679657880775</updated>
+    </task>
+    <option name="localTasksCounter" value="44" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -504,7 +507,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="2月26日每日一题" />
     <MESSAGE value="2月27日每日一题" />
     <MESSAGE value="2月28日每日一题" />
     <MESSAGE value="3月1日每日一题" />
@@ -529,7 +531,8 @@
     <MESSAGE value="3月20日每日一题" />
     <MESSAGE value="3月21日每日一题" />
     <MESSAGE value="3月22日每日一题" />
-    <option name="LAST_COMMIT_MESSAGE" value="3月22日每日一题" />
+    <MESSAGE value="3月23\24日每日一题" />
+    <option name="LAST_COMMIT_MESSAGE" value="3月23\24日每日一题" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
