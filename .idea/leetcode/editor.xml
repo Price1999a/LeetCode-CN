@@ -256,6 +256,17 @@
             </LeetcodeEditor>
           </value>
         </entry>
+        <entry key="/var/folders/5f/_x9hzf5137lb52vvbfwrpxbr0000gn/T/leetcode/editor/cn/[1638]统计只差一个字符的子串数目.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="/var/folders/5f/_x9hzf5137lb52vvbfwrpxbr0000gn/T/leetcode/editor/cn/doc/content/[1638]统计只差一个字符的子串数目.md" />
+              <option name="frontendQuestionId" value="leetcode.cn1638" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="/var/folders/5f/_x9hzf5137lb52vvbfwrpxbr0000gn/T/leetcode/editor/cn/[1638]统计只差一个字符的子串数目.java" />
+              <option name="titleSlug" value="count-substrings-that-differ-by-one-character" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
         <entry key="/var/folders/5f/_x9hzf5137lb52vvbfwrpxbr0000gn/T/leetcode/editor/cn/[1653]使字符串平衡的最少删除次数.java">
           <value>
             <LeetcodeEditor>
@@ -385,6 +396,17 @@
               <option name="host" value="leetcode.cn" />
               <option name="path" value="/var/folders/5f/_x9hzf5137lb52vvbfwrpxbr0000gn/T/leetcode/editor/cn/[2389]和有限的最长子序列.java" />
               <option name="titleSlug" value="longest-subsequence-with-limited-sum" />
+            </LeetcodeEditor>
+          </value>
+        </entry>
+        <entry key="/var/folders/5f/_x9hzf5137lb52vvbfwrpxbr0000gn/T/leetcode/editor/cn/[2395]和相等的子数组.java">
+          <value>
+            <LeetcodeEditor>
+              <option name="contentPath" value="/var/folders/5f/_x9hzf5137lb52vvbfwrpxbr0000gn/T/leetcode/editor/cn/doc/content/[2395]和相等的子数组.md" />
+              <option name="frontendQuestionId" value="leetcode.cn2395" />
+              <option name="host" value="leetcode.cn" />
+              <option name="path" value="/var/folders/5f/_x9hzf5137lb52vvbfwrpxbr0000gn/T/leetcode/editor/cn/[2395]和相等的子数组.java" />
+              <option name="titleSlug" value="find-subarrays-with-equal-sum" />
             </LeetcodeEditor>
           </value>
         </entry>
