@@ -4,13 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d1eadaba-aebf-4e43-8376-a0f97c6296ca" name="变更" comment="3月25日每日一题">
-      <change afterPath="$PROJECT_DIR$/src/leetcode/cn/Q1638.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/leetcode/cn/Q2395.java" afterDir="false" />
+    <list default="true" id="d1eadaba-aebf-4e43-8376-a0f97c6296ca" name="变更" comment="3月26/27日每日一题">
+      <change afterPath="$PROJECT_DIR$/src/leetcode/cn/Q1092.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/leetcode/editor.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/leetcode/editor.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/leetcode/statistics.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/leetcode/statistics.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/leetcode/cn/Q1574.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/leetcode/cn/Q1574.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,9 +51,9 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="应用程序.Q1638">
-    <configuration name="Q1012" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="leetcode.cn.Q1012" />
+  <component name="RunManager" selected="应用程序.Q1092">
+    <configuration name="Q1092" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode.cn.Q1092" />
       <module name="LeetCode-CN" />
       <extension name="coverage">
         <pattern>
@@ -121,11 +119,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="应用程序.Q1092" />
         <item itemvalue="应用程序.Q1638" />
         <item itemvalue="应用程序.Q1630" />
         <item itemvalue="应用程序.huawei1" />
         <item itemvalue="应用程序.Q1626" />
-        <item itemvalue="应用程序.Q1012" />
       </list>
     </recent_temporary>
   </component>
@@ -191,7 +189,9 @@
       <workItem from="1679468800795" duration="6039000" />
       <workItem from="1679634523745" duration="4524000" />
       <workItem from="1679806597263" duration="1806000" />
-      <workItem from="1679892389585" duration="2868000" />
+      <workItem from="1679892389585" duration="3070000" />
+      <workItem from="1679980408911" duration="1987000" />
+      <workItem from="1679982839373" duration="1575000" />
     </task>
     <task id="LOCAL-00001" summary="2月7日每日一题">
       <created>1675754260893</created>
@@ -501,7 +501,14 @@
       <option name="project" value="LOCAL" />
       <updated>1679723726471</updated>
     </task>
-    <option name="localTasksCounter" value="45" />
+    <task id="LOCAL-00045" summary="3月26/27日每日一题">
+      <created>1679899181641</created>
+      <option name="number" value="00045" />
+      <option name="presentableId" value="LOCAL-00045" />
+      <option name="project" value="LOCAL" />
+      <updated>1679899181641</updated>
+    </task>
+    <option name="localTasksCounter" value="46" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -519,7 +526,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="2月28日每日一题" />
     <MESSAGE value="3月1日每日一题" />
     <MESSAGE value="3月2日每日一题" />
     <MESSAGE value="3月3日每日一题 &#10;&#10;今日值得注意的是 这题中我们应该尝试记录下来上一次计算得到的结果 节约重复计算时间" />
@@ -544,7 +550,8 @@
     <MESSAGE value="3月22日每日一题" />
     <MESSAGE value="3月23\24日每日一题" />
     <MESSAGE value="3月25日每日一题" />
-    <option name="LAST_COMMIT_MESSAGE" value="3月25日每日一题" />
+    <MESSAGE value="3月26/27日每日一题" />
+    <option name="LAST_COMMIT_MESSAGE" value="3月26/27日每日一题" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -553,11 +560,6 @@
           <url>file://$PROJECT_DIR$/src/leetcode/cn/Q1626.java</url>
           <line>19</line>
           <option name="timeStamp" value="2" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/leetcode/cn/Q1638.java</url>
-          <line>9</line>
-          <option name="timeStamp" value="3" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
