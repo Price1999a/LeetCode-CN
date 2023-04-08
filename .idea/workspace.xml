@@ -4,7 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d1eadaba-aebf-4e43-8376-a0f97c6296ca" name="变更" comment="4月6日每日一题">
+    <list default="true" id="d1eadaba-aebf-4e43-8376-a0f97c6296ca" name="变更" comment="4月7日每日一题&#10;&#10;我讨厌数学题">
+      <change afterPath="$PROJECT_DIR$/src/leetcode/cn/Q1125.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/leetcode/editor.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/leetcode/editor.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/leetcode/statistics.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/leetcode/statistics.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
@@ -199,14 +200,7 @@
       <workItem from="1680406715305" duration="15539000" />
       <workItem from="1680593442128" duration="1612000" />
       <workItem from="1680749747429" duration="5047000" />
-      <workItem from="1680848043499" duration="1575000" />
-    </task>
-    <task id="LOCAL-00005" summary="2月13日每日一题&#10;&#10;特别注意和string相关的操作 可能非常耗时&#10;&#10;除此以外，idea不适合直接在源码中写一个超长字符串">
-      <created>1676256655065</created>
-      <option name="number" value="00005" />
-      <option name="presentableId" value="LOCAL-00005" />
-      <option name="project" value="LOCAL" />
-      <updated>1676256655065</updated>
+      <workItem from="1680848043499" duration="9244000" />
     </task>
     <task id="LOCAL-00006" summary="2月14日每日一题">
       <created>1676353192911</created>
@@ -544,7 +538,14 @@
       <option name="project" value="LOCAL" />
       <updated>1680768847985</updated>
     </task>
-    <option name="localTasksCounter" value="54" />
+    <task id="LOCAL-00054" summary="4月7日每日一题&#10;&#10;我讨厌数学题">
+      <created>1680851073973</created>
+      <option name="number" value="00054" />
+      <option name="presentableId" value="LOCAL-00054" />
+      <option name="project" value="LOCAL" />
+      <updated>1680851073975</updated>
+    </task>
+    <option name="localTasksCounter" value="55" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -562,7 +563,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="3月9日每日一题" />
     <MESSAGE value="3月10日每日一题" />
     <MESSAGE value="3月11日每日一题" />
     <MESSAGE value="3月12日每日一题&#10;&#10;这次的题目是hard cv了代码&#10;&#10;但是看懂了解析" />
@@ -587,7 +587,8 @@
     <MESSAGE value="4月4日每日一题" />
     <MESSAGE value="4月5日每日一题" />
     <MESSAGE value="4月6日每日一题" />
-    <option name="LAST_COMMIT_MESSAGE" value="4月6日每日一题" />
+    <MESSAGE value="4月7日每日一题&#10;&#10;我讨厌数学题" />
+    <option name="LAST_COMMIT_MESSAGE" value="4月7日每日一题&#10;&#10;我讨厌数学题" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
