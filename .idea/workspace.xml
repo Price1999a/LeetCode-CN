@@ -4,8 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d1eadaba-aebf-4e43-8376-a0f97c6296ca" name="变更" comment="4月11日每日一题&#10;&#10;这就是模拟题">
-      <change afterPath="$PROJECT_DIR$/src/leetcode/cn/Q1147.java" afterDir="false" />
+    <list default="true" id="d1eadaba-aebf-4e43-8376-a0f97c6296ca" name="变更" comment="4月12日每日一题&#10;&#10;看起来是hard 其实并不是特别难">
       <change beforePath="$PROJECT_DIR$/.idea/leetcode/statistics.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/leetcode/statistics.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
@@ -203,14 +202,7 @@
       <workItem from="1680593442128" duration="1612000" />
       <workItem from="1680749747429" duration="5047000" />
       <workItem from="1680848043499" duration="12294000" />
-      <workItem from="1681103110195" duration="9728000" />
-    </task>
-    <task id="LOCAL-00010" summary="2月18日每日一题">
-      <created>1676700046031</created>
-      <option name="number" value="00010" />
-      <option name="presentableId" value="LOCAL-00010" />
-      <option name="project" value="LOCAL" />
-      <updated>1676700046031</updated>
+      <workItem from="1681103110195" duration="11863000" />
     </task>
     <task id="LOCAL-00011" summary="2月19日每日一题">
       <created>1676787688222</created>
@@ -548,7 +540,14 @@
       <option name="project" value="LOCAL" />
       <updated>1681190559552</updated>
     </task>
-    <option name="localTasksCounter" value="59" />
+    <task id="LOCAL-00059" summary="4月12日每日一题&#10;&#10;看起来是hard 其实并不是特别难">
+      <created>1681277383129</created>
+      <option name="number" value="00059" />
+      <option name="presentableId" value="LOCAL-00059" />
+      <option name="project" value="LOCAL" />
+      <updated>1681277383129</updated>
+    </task>
+    <option name="localTasksCounter" value="60" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -566,7 +565,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="3月14日每日一题" />
     <MESSAGE value="3月15日每日一题" />
     <MESSAGE value="3月16日每日一题" />
     <MESSAGE value="3月17日每日一题" />
@@ -591,7 +589,8 @@
     <MESSAGE value="4月9日每日一题" />
     <MESSAGE value="4月10日每日一题" />
     <MESSAGE value="4月11日每日一题&#10;&#10;这就是模拟题" />
-    <option name="LAST_COMMIT_MESSAGE" value="4月11日每日一题&#10;&#10;这就是模拟题" />
+    <MESSAGE value="4月12日每日一题&#10;&#10;看起来是hard 其实并不是特别难" />
+    <option name="LAST_COMMIT_MESSAGE" value="4月12日每日一题&#10;&#10;看起来是hard 其实并不是特别难" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -600,6 +599,11 @@
           <url>file://$PROJECT_DIR$/src/leetcode/cn/Q1626.java</url>
           <line>19</line>
           <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/leetcode/cn/Q1147.java</url>
+          <line>5</line>
+          <option name="timeStamp" value="3" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
